@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Diabetes Portal</string>
+
+    <string name="hello_world">Diabetes Research!</string>
+    <string name="action_settings">Settings</string>
+</resources>
